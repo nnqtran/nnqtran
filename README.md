@@ -1,6 +1,5 @@
 WELCOME TO MY PAGE 👋
-I attained my bachelor's and master's degrees in England, specializing in Accounting and Finance, Project Management, and Business Studies. My keen interest lies in exploring the transformative potential of data as the 21st century's equivalent of a valuable natural resource, and its profound implications for business enterprises."
-
+I attained my bachelor's and master's degrees in England, specializing in Accounting and Finance, Project Management, and Business Studies. My keen interest lies in "Data is the oil field of the 21st century, how do they create a big impact for businesses?"
 
 
 
